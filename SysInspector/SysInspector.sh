@@ -72,18 +72,19 @@ mkdir -p "$pathErrorFolder"
 errorFile="$pathErrorFolder/SysInspector_Error_$(date +"%d%m%Y_%H%M%S")"
 
 # Create an empty error report file
+# TODO
 touch "$errorFile"
+
+# Display a warning about the instability of apt CLI interface
+printColoredMessage "33" "\nWARNING!"
+printColoredMessage "33" "Apt does not have a stable CLI interface."
+printColoredMessage "33" "You must use this script with caution."
 
 # Initialize system information verification
 printColoredMessage "32" "\nInitializing system information verification:"
 
 # Update the package list
 sudo apt update
-
-# Display a warning about the instability of apt CLI interface
-printColoredMessage "33" "\nWARNING!"
-printColoredMessage "33" "Apt does not have a stable CLI interface."
-printColoredMessage "33" "You must use this script with caution."
 
 # Check kernel version
 printColoredMessage "32" "\nChecking the kernel version:"

@@ -1,15 +1,19 @@
-![Stitch wavin hand](https://github.com/403rbidden/Scripting-en-Linux/blob/main/SysInspector/stitch_waving_hand.png)  SysInspector Script
+![Stitch wavin hand](https://github.com/403rbidden/Scripting-en-Linux/blob/main/SysInspector/stitch_waving_hand.png)
 
 # SysInspector
 
 ## Introduction
 This Bash script performs a series of operations to update and optimize a Linux system. 
 
+
 It displays system information and carries out system update and cleanup operations. 
+
 
 Additionally, it generates error reports in case of issues during execution. 
 
+
 The script is valuable for automating system maintenance tasks and provides colorful and informative messages throughout its execution.
+
 
 Please read this README file thoroughly before running the script!
 

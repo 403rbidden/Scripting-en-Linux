@@ -7,11 +7,7 @@ This Bash script performs a series of operations to update and optimize a Linux 
 
 
 It displays system information and carries out system update and cleanup operations. 
-
-
 Additionally, it generates error reports in case of issues during execution. 
-
-
 The script is valuable for automating system maintenance tasks and provides colorful and informative messages throughout its execution.
 
 
@@ -29,7 +25,7 @@ Please read this README file thoroughly before running the script!
 - This script is intended for use on Linux-based systems with the Bash shell.
 - Ensure that you have the necessary permissions to execute the script.
 
-### 💾 Execution
+### Execution
 1. Open a terminal window.
 2. Navigate to the directory containing the script using the `cd` command.
 3. Make the script executable by running the following command:
@@ -43,8 +39,9 @@ Please read this README file thoroughly before running the script!
     ./sys_inspector.sh
     ```
 
-### ⚠️ Warning
-- Permissions: The script requires administrative privileges. 
+### Warning
+⚠️ 
+Permissions: The script requires administrative privileges. 
 Ensure that you have the necessary permissions to execute the script.
 
 ### User Confirmation
@@ -62,11 +59,12 @@ Please review the log located in `~/Documents/SysInspector_Error` for details.
 ## Author
 This script has been created by María Jesús (MJ) Ocaña Rodríguez, Aka. 403rbidden.
 
-### 💌 Customization and Attribution
+### Customization and Attribution
 - Feel free to customize and use this script according to your needs.
 - If you encounter issues or have suggestions for improvement, please reach me.
 - If you use or modify this script for another program, please recog my work in your script or documentation. Thank you!
 
-## 🕊 Disclaimer
+## Disclaimer
+🕊
 - Use this script at your own risk. 
 - Ensure you understand the actions it performs before proceeding.

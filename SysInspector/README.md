@@ -36,25 +36,32 @@ Please read this README file thoroughly before running the script!
     ```
 
 ### Warning
-- **Permissions:** The script requires administrative privileges. Ensure that you have the necessary permissions to execute the script.
+- **Permissions:** The script requires administrative privileges.
+- Ensure that you have the necessary permissions to execute the script.
 
 ### User Confirmation
-- Upon running the script, you will be prompted to confirm whether you want to proceed with the operations. Respond with 'y' (yes) or 'n' (no).
+- Upon running the script, you will be prompted to confirm whether you want to proceed with the operations.
+- The confirmation is case-insensitive, so you can type either in uppercase or lowercase (e.g., "y" or "Y") to indicate your choice.
 
 ### Error Handling
-- If errors occur during execution, an error log will be generated. Please review the log located in `~/Documents/SysInspector_Error` for details.
+- If errors occur during execution, an error log will be generated.
+- The path to the log will be displayed on the console screen.
+
+
+Please review the log for details.
 
 ### Additional Information
 - **ASCII Art Banner:** The script begins with an ASCII art banner for a visually engaging experience.
 - **Colored Messages:** The script uses colored messages for better readability.
 
 ## Author
-This script has been created by María Jesús (MJ) Ocaña Rodríguez, Aka. 403rbidden.
+This script has been created by María Jesús Ocaña Rodríguez, AKA 403rbidden.
 
 ### Customization and Attribution
 - Feel free to customize and use this script according to your needs.
 - If you encounter issues or have suggestions for improvement, please reach me.
-- If you use or modify this script for another program, please recognize my work in your script or documentation. Thank you!
+- If you use or modify this script for another program, please recognize my work in your script or documentation. 💙 Thank you!
 
 ## 🕊 Disclaimer
-- Use this script at your own risk. Ensure you understand the actions it performs before proceeding.
+- Use this script at your own risk.
+- Ensure you understand the actions it performs before proceeding.

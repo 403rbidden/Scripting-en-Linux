@@ -1,4 +1,4 @@
-![Stitch wavin hand](https://github.com/403rbidden/Scripting-en-Linux/blob/main/SysInspector/stitch_waving_hand.png)
+![Stitch wavin hand](https://github.com/403rbidden/Scripting-en-Linux/blob/main/SysInspector/stitch_waving_hand.png)  SysInspector Script
 
 # SysInspector Script
 

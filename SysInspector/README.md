@@ -27,12 +27,12 @@ Please read this README file thoroughly before running the script!
 3. Make the script executable by running the following command:
 
     ```bash
-    chmod +x SysInspector.sh
+    chmod u+x SysInspector.sh
     ```
 5. Execute the script:
 
     ```bash
-    ./sys_inspector.sh
+    ./SysInspector.sh
     ```
 
 ### Warning
